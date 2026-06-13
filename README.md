@@ -7,7 +7,7 @@ The addon is based on **ArenaGCDs by Oscarforge**, but extends the original conc
 It is designed mainly for arena gameplay, where tracking enemy globals directly on nameplates can make cooldown awareness much easier without needing to look away from the fight.
 
 
-**!!!THIS ADDON DOEST WORK IN THE OPEN WORLD!!!**
+**!!!THIS ADDON DOES NOT WORK IN THE OPEN WORLD!!!**
 
 ---
 
