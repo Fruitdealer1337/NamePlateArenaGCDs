@@ -75,15 +75,7 @@ NameplateArenaGCDs is currently in **beta**.
 
 The addon is stable enough for public testing, but bugs may still exist.
 
-Please report:
-
-- Lua errors
-- wrong nameplate identity
-- castbars not showing
-- aura display issues
-- pet/totem weirdness
-- frame drops or stutters
-- GUI clipping or broken settings
+If you can reproduce a bug, please report it to me.
 
 
 ## SPECIAL BIG THANKS TO
