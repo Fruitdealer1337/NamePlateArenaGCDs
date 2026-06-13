@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: NameplateArenaGCDs
+## Notes: Enemy arena GCD tracker anchored to visible nameplates with custom sweep and cast/channel support.
+## Author: Fruitdealer1337
+## Version: 1.2-cast-sweep-test3
+## SavedVariables: NamePlateArenaGCDsDB
+
+SpellTable.lua
+BuffTables.lua
+Core.lua
